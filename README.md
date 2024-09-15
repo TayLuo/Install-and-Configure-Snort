@@ -10,7 +10,7 @@ You need a trail account to do this project on the Cloud, or you could follow th
 - <b>Create Resource Group</b> 
 - <b>Virtual Machine</b>
 - <b>Log Analystic Workspace</b>
-- <b>Microsoft Sentinel</b>
+
 
 <h2>Environments Used </h2>
 
