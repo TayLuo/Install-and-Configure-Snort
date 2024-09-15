@@ -7,11 +7,11 @@ This project is about install, configure Snort, want to learn more about what Sn
 2. Once follow the previous steps how to create a VM, using a putty or Window PowerShell to access the Virtual Machine.
 3. After login, the first thing is to "update" the system, so the new version Snort is compatiable with the VM.
    Run the Following Command:
-   <p align="center"><br />
+   <p align="center">
 <img src="https://imgur.com/HXJid7u.png" height="80%" width="80%" >
 <br />
 4. It is time to install Snort on the Server:
-   <p align="center"><br />
+<p align="center"><br />
 <img src="https://imgur.com/WsumxTM.png" height="80%" width="80%" >
 <br />
 
