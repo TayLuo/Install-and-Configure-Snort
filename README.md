@@ -35,7 +35,10 @@ This project is about install, configure Snort, want to learn more about what Sn
 <p align="center">
 <img src="https://imgur.com/ukBVzdG.png" height="80%" width="80%" >
 
-
+10. Once get into the snort.conf file, there are few things needs to be changed in
+    order for Snort to work.
+<p align="center">
+<img src="https://imgur.com/WiYNjA2.png" height="80%" width="80%" >
 
 
 
