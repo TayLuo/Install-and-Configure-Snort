@@ -3,6 +3,9 @@ In this part of project, I will walk you through how to install and configure Sn
 You need a trail account to do this project on the Cloud, or you could follow the exactly steps on a VirtualBox.
 This project is about install, configure Snort, want to learn more about what Snort can do, click [here](https://www.snort.org/)
 
+1. Sign up an Azure Account, and Create a Ubuntu VM. [Click](https://learn.microsoft.com/en-us/azure/virtual-machines/linux/quick-create-portal?tabs=ubuntu)
+2. 
+
 - [Introduction of the Project](https://github.com/TayLuo/Deploy-Windows-VM----Sentinel-SIEM-/blob/main/The%20purpose%20of%20the%20Project)
 
 <h2>Prerequisites</h2>
