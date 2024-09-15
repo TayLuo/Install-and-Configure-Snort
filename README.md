@@ -1,8 +1,7 @@
 In this part of project, I will walk you through how to install and configure Snort on a Ubuntu server in [Azure](https://azure.microsoft.com/en-us/get-started/azure-portal), 
 
 You need a trail account to do this project on the Cloud, or you could follow the exactly steps on a VirtualBox.
-
- click [here](https://www.snort.org/)
+This project is about install, configure Snort, want to learn more about what Snort can do, click [here](https://www.snort.org/)
 
 - [Introduction of the Project](https://github.com/TayLuo/Deploy-Windows-VM----Sentinel-SIEM-/blob/main/The%20purpose%20of%20the%20Project)
 
