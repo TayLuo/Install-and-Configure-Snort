@@ -14,9 +14,9 @@ This project is about install, configure Snort, want to learn more about what Sn
 <p align="center">
 <img src="https://imgur.com/WsumxTM.png" height="80%" width="80%" >
 
-5.First thing need to find out the interface and the IP address before moving to next:
+5. First thing need to find out the interface and the IP address before moving to next:
 <p align="center">
-<img src="https://https://imgur.com/F5aTwuz.png" height="80%" width="80%" >
+<img src="https://imgur.com/F5aTwuz.png" height="80%" width="80%" >
 
 
 - [Introduction of the Project](https://github.com/TayLuo/Deploy-Windows-VM----Sentinel-SIEM-/blob/main/The%20purpose%20of%20the%20Project)
