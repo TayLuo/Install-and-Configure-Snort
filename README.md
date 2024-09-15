@@ -22,6 +22,17 @@ This project is about install, configure Snort, want to learn more about what Sn
 <p align="center">
 <img src="https://imgur.com/nQB6jgq.png" height="80%" width="80%" >
 
+7. Verify Snort is downloaded sucessfully and check out its version
+<p align="center">
+<img src="https://imgur.com/dYeOBeq.png" height="80%" width="80%" >
+
+
+
+
+
+
+
+   
 <h2>Prerequisites</h2>
 
 - <b>Create Resource Group</b> 
