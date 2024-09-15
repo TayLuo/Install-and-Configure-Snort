@@ -1,9 +1,7 @@
-# Introduction-with-Snort
-This is an introduction of Snort. The following guide will show how to install Snort, 
-configure and write custom rules. Snort has three primary uses: As a packet sniffer 
-like tcpdump, as a packet logger — which is useful for network traffic debugging, 
-or it can be used as a full-blown network intrusion prevention system.
-If you want to learn more about Snort, click [here](https://www.snort.org/)
+In this part of project, I will walk you through how to install and configure Snort on a Ubuntu server in [Azure](https://azure.microsoft.com/en-us/get-started/azure-portal), 
+You need a trail account to do this project on the Cloud, or you could follow the exactly steps on a VirtualBox.
+
+ click [here](https://www.snort.org/)
 
 - [Introduction of the Project](https://github.com/TayLuo/Deploy-Windows-VM----Sentinel-SIEM-/blob/main/The%20purpose%20of%20the%20Project)
 
