@@ -44,40 +44,4 @@ This project is about install, configure Snort, want to learn more about what Sn
 <p align="center">
 <img src="https://imgur.com/1zqKhEb.png" height="80%" width="80%" >
 
-
-   
-<h2>Prerequisites</h2>
-
-- <b>Create Resource Group</b> 
-- <b>Virtual Machine</b>
-- <b>Log Analystic Workspace</b>
-
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b>
-- <b>Microsoft Sentinel</b>
-
-
-
-
-<p align="center">
-Create Recource Group: <br/>
-<img src="https://imgur.com/731vDl5.png" height="80%" width="80%" >
-<br />
-<br />
-<h2>Create Windows Virtual Machine</h2>
-Steps to create a VM:  <br/>
-Go to Virtual Machine > Create Virtual Machine.
-Choose a new Resource Group, set the region (e.g., West US3), and configure the VM details.
-
-<img src="https://imgur.com/m2t3cI1.png" height="80%" width="80%">
-<br />
-<br />
-<img src="https://imgur.com/NapHG6s.png" height="80%" width="80%">
-<br />
-<br />
-<img src="https://imgur.com/gHmPVxV.png" height="80%" width="80%">
-<br />
-<br />
-<b>Security Group Configuration</b> <br /> <br />
+You have complete the first part of the project. 
