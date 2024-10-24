@@ -35,11 +35,16 @@ This project is about install, configure Snort, want to learn more about what Sn
 <img src="https://imgur.com/nQB6jgq.png" height="80%" width="80%" >
 
 7. Verify Snort is downloaded sucessfully and check out its version
+
+		snort --version
+
 <p align="center">
 <img src="https://imgur.com/dYeOBeq.png" height="80%" width="80%" >
 
 8. Once everything congifured, type the following command "cd /etc/snort" file
    copy the snort.conf file. (It is always a good practice to copy a configuration file.)
+
+
 <p align="center">
 <img src="https://imgur.com/a0RIvml.png" height="80%" width="80%" >
 
