@@ -14,10 +14,16 @@ This project is about install, configure Snort, want to learn more about what Sn
 <img src="https://imgur.com/HXJid7u.png" height="80%" width="80%" >
 
 4. It is time to install Snort on the Server:
+
+		sudo apt install snort -y
+
 <p align="center">
 <img src="https://imgur.com/WsumxTM.png" height="80%" width="80%" >
 
 5. First thing need to find out the interface and the IP address before moving to next:
+
+		ip a
+
 <p align="center">
 <img src="https://imgur.com/F5aTwuz.png" height="80%" width="80%" >
 
