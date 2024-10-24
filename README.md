@@ -7,6 +7,9 @@ This project is about install, configure Snort, want to learn more about what Sn
 2. Once follow the previous steps how to create a VM, using a putty or Window PowerShell to access the Virtual Machine.
 3. After login, the first thing is to "update" the system, so the new version Snort is compatiable with the VM.
    Run the Following Command:
+
+	sudo apt update && sudo apt upgrade -y
+
 <p align="center">
 <img src="https://imgur.com/HXJid7u.png" height="80%" width="80%" >
 
