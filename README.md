@@ -28,6 +28,9 @@ This project is about install, configure Snort, want to learn more about what Sn
 <img src="https://imgur.com/F5aTwuz.png" height="80%" width="80%" >
 
 6. After download Snort, a screen will pop out, put the IP range there, click OK
+
+		Put your private IP range
+
 <p align="center">
 <img src="https://imgur.com/nQB6jgq.png" height="80%" width="80%" >
 
