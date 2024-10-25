@@ -64,6 +64,8 @@ This project is about install, configure Snort, want to learn more about what Sn
 <img src="https://imgur.com/WiYNjA2.png" height="80%" width="80%" >
 
 11. After the configuration, let's test the file and make sure no error message
+
+		sudo snort -T -i eth0 -c /etc/snort/snort.conf
 <p align="center">
 <img src="https://imgur.com/1zqKhEb.png" height="80%" width="80%" >
 
