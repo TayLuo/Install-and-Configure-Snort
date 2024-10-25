@@ -43,6 +43,9 @@ This project is about install, configure Snort, want to learn more about what Sn
 
 8. Once everything congifured, type the following command "cd /etc/snort" file
    copy the snort.conf file. (It is always a good practice to copy a configuration file.)
+   		sudo su
+
+   		cp /etc/snort/snort.conf /etc/snort/snort.conf.bak
 
 
 <p align="center">
