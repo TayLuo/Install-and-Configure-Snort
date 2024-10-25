@@ -53,6 +53,8 @@ This project is about install, configure Snort, want to learn more about what Sn
 <img src="https://imgur.com/a0RIvml.png" height="80%" width="80%" >
 
 9. Find your favorite editor to edit the configuration file
+
+		sudo vim /etc/snort/snort.conf
 <p align="center">
 <img src="https://imgur.com/ukBVzdG.png" height="80%" width="80%" >
 
